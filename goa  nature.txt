@@ -1,7 +1,0 @@
-<html>
-<head>
-<title>GOA NATURE</title>
-</head>
-<body>
-<img src="E:\download.jpg" height="350" width="350" ></center>goa nature
-
